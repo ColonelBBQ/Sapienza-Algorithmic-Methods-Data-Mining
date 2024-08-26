@@ -8,6 +8,7 @@ Final Grade: 28/30
 
 ## HW1:
 This repository contains the solution for the first Homework
+
 Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_1)
 
 - **PDF Printout**: [PDF_printout_hackerrank.pdf]: This file contains printouts of all the exercises executed on the website [hackerrank.com](https://www.hackerrank.com/).
@@ -16,6 +17,7 @@ Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/mast
 
 ## HW2:
 This repository contains the solution of the Group #7 for the 2nd Homework
+
 Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_2)
 
 ![image](https://github.com/user-attachments/assets/882eb9c2-3250-4ddc-9ea6-7f32e3403c89)
@@ -29,6 +31,7 @@ Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/mast
 
 ## HW3:
 This repository contains the solution of the Group #20 for the 3rd Homework
+
 Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3)
 
 ![image](https://github.com/user-attachments/assets/8ed0e102-d9ee-405e-af7d-479d0c637a54)
@@ -42,6 +45,7 @@ Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/mast
 
 ## HW4:
 This repository contains the solution of the Group #25 for the 4th Homework
+
 Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_4)
 
 ![image](https://github.com/user-attachments/assets/f9747fdd-9769-414b-989c-258260c4584a)
@@ -53,6 +57,7 @@ Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/mast
 
 ## HW5:
 This repository contains the solution of the Group #8 for the 5th Homework
+
 Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_5)
 
 ![image](https://github.com/user-attachments/assets/1cb86242-166d-468d-883b-227bd738d557)
