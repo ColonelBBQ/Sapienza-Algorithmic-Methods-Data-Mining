@@ -19,7 +19,7 @@ Text of the Homework: (https://github.com/Sapienza-University-Rome/ADM/tree/mast
 
 ![image](https://github.com/user-attachments/assets/882eb9c2-3250-4ddc-9ea6-7f32e3403c89)
 
-
+### File Description:
 - **main.ipynb**: this file contains all the answers to the Research Questions (including Bonus, CLQ, AWSQ, AQ). A rendered version is available here
 - **awsq.py**: python script to answer the AWS Question (AWSQ)
 - **commandline_original.sh**: shell script used to answer the first part of the Command Line Question (CLQ)
