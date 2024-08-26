@@ -1,6 +1,7 @@
 # Repository Introduction
 
 This Repository includes all the Homeworks that have been done for the [Algorithmic Methods of Data Mining Class](http://aris.me/index.php/teaching)
+
 Final Grade: 28/30
 
 # Folders Content
